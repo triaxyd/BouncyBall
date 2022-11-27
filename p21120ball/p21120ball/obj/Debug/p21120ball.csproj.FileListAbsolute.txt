@@ -1,0 +1,12 @@
+C:\Users\trian\source\repos\p21120ball\p21120ball\bin\Debug\p21120ball.exe.config
+C:\Users\trian\source\repos\p21120ball\p21120ball\bin\Debug\p21120ball.exe
+C:\Users\trian\source\repos\p21120ball\p21120ball\bin\Debug\p21120ball.pdb
+C:\Users\trian\source\repos\p21120ball\p21120ball\obj\Debug\p21120ball.csproj.AssemblyReference.cache
+C:\Users\trian\source\repos\p21120ball\p21120ball\obj\Debug\p21120ball.csproj.SuggestedBindingRedirects.cache
+C:\Users\trian\source\repos\p21120ball\p21120ball\obj\Debug\p21120ball.Form1.resources
+C:\Users\trian\source\repos\p21120ball\p21120ball\obj\Debug\p21120ball.Properties.Resources.resources
+C:\Users\trian\source\repos\p21120ball\p21120ball\obj\Debug\p21120ball.csproj.GenerateResource.cache
+C:\Users\trian\source\repos\p21120ball\p21120ball\obj\Debug\p21120ball.csproj.CoreCompileInputs.cache
+C:\Users\trian\source\repos\p21120ball\p21120ball\obj\Debug\p21120ball.exe
+C:\Users\trian\source\repos\p21120ball\p21120ball\obj\Debug\p21120ball.pdb
+C:\Users\trian\source\repos\p21120ball\p21120ball\obj\Debug\p21120ball.Form2.resources
